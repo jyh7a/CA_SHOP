@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/CA_SHOP/static/css/main.50825bb7.chunk.css",
-    "main.js": "/CA_SHOP/static/js/main.35500476.chunk.js",
-    "main.js.map": "/CA_SHOP/static/js/main.35500476.chunk.js.map",
-    "runtime-main.js": "/CA_SHOP/static/js/runtime-main.8edf8702.js",
-    "runtime-main.js.map": "/CA_SHOP/static/js/runtime-main.8edf8702.js.map",
-    "static/js/2.2b55458a.chunk.js": "/CA_SHOP/static/js/2.2b55458a.chunk.js",
-    "static/js/2.2b55458a.chunk.js.map": "/CA_SHOP/static/js/2.2b55458a.chunk.js.map",
-    "static/js/3.461b84bd.chunk.js": "/CA_SHOP/static/js/3.461b84bd.chunk.js",
-    "static/js/3.461b84bd.chunk.js.map": "/CA_SHOP/static/js/3.461b84bd.chunk.js.map",
-    "static/js/4.5165b2b9.chunk.js": "/CA_SHOP/static/js/4.5165b2b9.chunk.js",
-    "static/js/4.5165b2b9.chunk.js.map": "/CA_SHOP/static/js/4.5165b2b9.chunk.js.map",
+    "main.js": "/CA_SHOP/static/js/main.6e6070d7.chunk.js",
+    "main.js.map": "/CA_SHOP/static/js/main.6e6070d7.chunk.js.map",
+    "runtime-main.js": "/CA_SHOP/static/js/runtime-main.bb6f572b.js",
+    "runtime-main.js.map": "/CA_SHOP/static/js/runtime-main.bb6f572b.js.map",
+    "static/js/2.9c5692f9.chunk.js": "/CA_SHOP/static/js/2.9c5692f9.chunk.js",
+    "static/js/2.9c5692f9.chunk.js.map": "/CA_SHOP/static/js/2.9c5692f9.chunk.js.map",
+    "static/js/3.ff4b281a.chunk.js": "/CA_SHOP/static/js/3.ff4b281a.chunk.js",
+    "static/js/3.ff4b281a.chunk.js.map": "/CA_SHOP/static/js/3.ff4b281a.chunk.js.map",
+    "static/js/4.e448ff22.chunk.js": "/CA_SHOP/static/js/4.e448ff22.chunk.js",
+    "static/js/4.e448ff22.chunk.js.map": "/CA_SHOP/static/js/4.e448ff22.chunk.js.map",
     "index.html": "/CA_SHOP/index.html",
-    "precache-manifest.f07bfb10a2c137b960931a8cd77d7896.js": "/CA_SHOP/precache-manifest.f07bfb10a2c137b960931a8cd77d7896.js",
+    "precache-manifest.8e456acf8f49aab67c4f8de7b5910eb0.js": "/CA_SHOP/precache-manifest.8e456acf8f49aab67c4f8de7b5910eb0.js",
     "service-worker.js": "/CA_SHOP/service-worker.js",
     "static/css/main.50825bb7.chunk.css.map": "/CA_SHOP/static/css/main.50825bb7.chunk.css.map",
-    "static/js/2.2b55458a.chunk.js.LICENSE.txt": "/CA_SHOP/static/js/2.2b55458a.chunk.js.LICENSE.txt"
+    "static/js/2.9c5692f9.chunk.js.LICENSE.txt": "/CA_SHOP/static/js/2.9c5692f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8edf8702.js",
-    "static/js/2.2b55458a.chunk.js",
+    "static/js/runtime-main.bb6f572b.js",
+    "static/js/2.9c5692f9.chunk.js",
     "static/css/main.50825bb7.chunk.css",
-    "static/js/main.35500476.chunk.js"
+    "static/js/main.6e6070d7.chunk.js"
   ]
 }
