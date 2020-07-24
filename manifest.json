@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "영훈 쇼핑물",
+  "name": "영훈 PWA 쇼핑물",
   "icons": [
     {
       "src": "favicon.ico",
