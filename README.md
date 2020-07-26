@@ -1,7 +1,7 @@
-# CA_SHOP
-코딩에플 리엑트 shop
+# I used
+React, Redux, PWA
 
 # ShoeShop URL
 https://jyh7a.github.io/CA_SHOP
 
-# blog URL
+
