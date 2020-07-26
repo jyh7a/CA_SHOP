@@ -1,5 +1,5 @@
 # I used
-React, Redux,
+React, Redux,  
 PWA => you can download this webapp like app  
 react-app-polyfill => Also available in IE11  
 
